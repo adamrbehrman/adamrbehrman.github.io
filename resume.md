@@ -32,7 +32,7 @@ Aside from the programming skills, I'm also a clear communicator and strong lead
 
 ### Off-Campus
 
-I'm a part-time data analyst for Minute.ly, a tech startup based in Tel-Aviv, Israel. 
+I'm a part-time data analyst for [Minute.ly](https://www.minute.ly), a tech startup based in Tel-Aviv, Israel. 
 In this role, I am responsible for:
 - Conducting statistical analyses and experiments on user-engagement metrics
 - Aggregating and analyzing client data to present key KPIs
