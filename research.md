@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Research Projects"
-permalink: /research-projects
+permalink: /research
 ---
 
 # I like research.
