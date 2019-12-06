@@ -1,4 +1,8 @@
-### Hi, I'm Adam. I'm a data-driven, results kind-of-guy who enjoys challenging work and solving meaningful problems. I plan to graduate December 2020.
+### Hi, I'm Adam. 
+
+I'm a data-driven, results kind-of-guy who enjoys challenging work and solving meaningful problems. I plan to graduate December 2020.
+
+You can see my research projects [here] (https://github.com/adamrbehrman/adamrbehrman.github.io/edit/master/index.md).
 
 You can use the [editor on GitHub](https://github.com/adamrbehrman/adamrbehrman.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
