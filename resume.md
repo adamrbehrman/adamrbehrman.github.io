@@ -9,21 +9,21 @@ Here is my digital resume, but I prefer to think of it as my 'Interest Page'.
 ## The works
 
 '''
-Programming/Scripting<b>
-• Python<b>
-• R<b>
-• SQL<b>
-• Java<b>
-• SAS<b>
-• Swift<b>
-Data Wrangling<b>
-• AWS<b>
-• Apache Zeppelin/Spark<b>
-• Scala<b>
-• Firebase<b>
-Visualizations<b>
-• Tableau<b>
-• Kibana<b>
+Programming/Scripting<br>
+• Python<br>
+• R<br>
+• SQL<br>
+• Java<br>
+• SAS<br>
+• Swift<br>
+Data Wrangling<br>
+• AWS<br>
+• Apache Zeppelin/Spark<br>
+• Scala<br>
+• Firebase<br>
+Visualizations<br>
+• Tableau<br>
+• Kibana<br>
 '''
 
 ## Some of the stuff I do
@@ -47,7 +47,7 @@ I think it's important to always be learning, and part of that is looking back. 
 - I was a tutor for Elon's Computer Science  curriculum. I got my CRLA certification (Level 1) in Spring 2019.
 - I created and taught the Hour of Code class at Burlington Housing Authority's After-School Care. Through this, I was able to teach ~20 elemetary/middle schoolers how to create and deploy their own mobile applications using MIT App Inventor.
 ### TL;DR:
-I'm a junior studying Computer Science at Elon University.<b>
-I have minors in Data Science and Statistics.<b>
-I do stuff on and off campus that I'm pretty proud of.<b>
-I believe data will change the world, and I want to lead that change.<b>
+I'm a junior studying Computer Science at Elon University.<br>
+I have minors in Data Science and Statistics.<br>
+I do stuff on and off campus that I'm pretty proud of.<br>
+I believe data will change the world, and I want to lead that change.<br>
