@@ -56,6 +56,13 @@ I think it's important to always be learning, and part of that is looking back. 
 - I was a tutor for Elon's Computer Science  curriculum. I got my CRLA certification (Level 1) in Spring 2019.
 - I created and taught the Hour of Code class at Burlington Housing Authority's After-School Care. Through this, I was able to teach ~20 elemetary/middle schoolers how to create and deploy their own mobile applications using MIT App Inventor.
 
+## Hobbies
+
+I enjoy life a lot. Here are some of the things I like to do the most while I'm here on Earth:
+- I am an avid origamist (yes, it's a word)
+- I produce music (shameless plug for [my SoundCloud](https://soundcloud.com/miser3blade))
+- I design and build mobile applications
+
 ### TL;DR
 
 I'm a junior studying Computer Science at Elon University.
