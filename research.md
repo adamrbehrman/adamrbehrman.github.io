@@ -1,5 +1,4 @@
 ---
-layout: default
 title: "Research Projects"
 description: "Some info about my research"
 permalink: /research
