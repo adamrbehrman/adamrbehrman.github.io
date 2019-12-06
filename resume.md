@@ -7,23 +7,25 @@ permalink: /resume
 # A resume of sorts
 Here is my digital resume, but I prefer to think of it as my 'Interest Page'.
 ## The works
+
 '''
-Programming/Scripting
-• Python 
-• R
-• SQL
-• Java
-• SAS
-• Swift
-Data Wrangling
-• AWS
-• Apache Zeppelin/Spark
-• Scala
-• Firebase
-Visualizations
-• Tableau
-• Kibana
+Programming/Scripting<b>
+• Python<b>
+• R<b>
+• SQL<b>
+• Java<b>
+• SAS<b>
+• Swift<b>
+Data Wrangling<b>
+• AWS<b>
+• Apache Zeppelin/Spark<b>
+• Scala<b>
+• Firebase<b>
+Visualizations<b>
+• Tableau<b>
+• Kibana<b>
 '''
+
 ## Some of the stuff I do
 ### Off-Campus
 I'm a part-time data analyst for Minute.ly, a tech startup based in Tel-Aviv, Israel. 
@@ -45,7 +47,7 @@ I think it's important to always be learning, and part of that is looking back. 
 - I was a tutor for Elon's Computer Science  curriculum. I got my CRLA certification (Level 1) in Spring 2019.
 - I created and taught the Hour of Code class at Burlington Housing Authority's After-School Care. Through this, I was able to teach ~20 elemetary/middle schoolers how to create and deploy their own mobile applications using MIT App Inventor.
 ### TL;DR:
-I'm a junior studying Computer Science at Elon University.
-I have minors in Data Science and Statistics.
-I do stuff on and off campus that I'm pretty proud of.
-I believe data will change the world, and I want to lead that change.
+I'm a junior studying Computer Science at Elon University.<b>
+I have minors in Data Science and Statistics.<b>
+I do stuff on and off campus that I'm pretty proud of.<b>
+I believe data will change the world, and I want to lead that change.<b>
