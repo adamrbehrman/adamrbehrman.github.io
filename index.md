@@ -1,12 +1,11 @@
-### Hi, I'm Adam. 
+# Hi, I'm Adam. 
 
 I'm a data-driven, results kind-of-guy who enjoys challenging work and solving meaningful problems. I plan to graduate December 2020.
 
 You can see my research projects [here](https://adamrbehrman.github.io/research-projects).
 
 
-
-# Some of my personal projects:
+## Some of my personal projects:
  - [An Othello solver](https://github.com/adamrbehrman/OthelloSolver)
  - ['A Clue solver'](https://github.com/adamrbehrman/ClueSolver)
  - ['A Restaurant picker'](https://github.com/adamrbehrman/Restaurant-Picker)
