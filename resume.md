@@ -8,7 +8,7 @@ permalink: /resume
 Here is my digital resume, but I prefer to think of it as my 'Interest Page'.
 ## The works
 
-'''
+```
 Programming/Scripting
 • Python
 • R
@@ -24,7 +24,7 @@ Data Wrangling
 Visualizations
 • Tableau
 • Kibana
-'''
+```
 
 ## Some of the stuff I do
 ### Off-Campus
