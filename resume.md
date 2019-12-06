@@ -8,6 +8,26 @@ permalink: /resume
 
 Here is my digital resume, but I prefer to think of it as my 'Interest Page'.
 
+## The works
+
+'''
+Programming/Scripting
+• Python 
+• R
+• SQL
+• Java
+• SAS
+• Swift
+Data Wrangling
+• AWS
+• Apache Zeppelin/Spark
+• Scala
+• Firebase
+Visualizations
+• Tableau
+• Kibana
+'''
+
 ## Some of the stuff I do
 
 ### Off-Campus
