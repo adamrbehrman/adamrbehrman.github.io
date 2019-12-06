@@ -4,7 +4,7 @@ I'm a data-driven, results kind-of-guy who enjoys challenging work and solving m
 
 Quick links:
 - Here's my [digital resume](https://adamrbehrman.github.io/resume).
-- You can see my research projects [here](https://adamrbehrman.github.io/research).
+- You can see my research projects [here](https://adamrbehrman.github.io/research-projects).
 
 
 ## Some of my personal projects:
