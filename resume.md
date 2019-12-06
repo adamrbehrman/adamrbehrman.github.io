@@ -26,6 +26,8 @@ Visualizations
 • Kibana
 ```
 
+Aside from the programming skills, I'm also a clear communicator and strong leader. I have experience presenting to CEOs and CTOs using visualizations that are appropriate and easy to understand. I built a club sport up from 0 to over 120 members (75 active) in under a year. Finally, I have over a year's worth experience in the Data Science field as a junior undergraduate. All throughout this time, I have been challenged to learn and to demonstrate my knowledge to peers at meetings, challenges and conferences. You can read more about these experiences below.
+
 ## Some of the stuff I do
 
 ### Off-Campus
