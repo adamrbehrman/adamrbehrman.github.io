@@ -19,6 +19,6 @@ I found my current mentor, Dr. Dugald Hutchings, while searching for someone wit
 
 Elon University recently wrote [an article](https://www.elon.edu/u/news/2019/12/05/elon-college-fellows-poster-session-tells-the-story-of-elon/) about an undergraduate research poster presentation I spoke at.
 
-![Here's]() a copy of the poster I presented there.
+![Here's](Elon College Fellows Research Poster.pdf) a copy of the poster I presented there.
 
 And when I finally finish the research, I'll post a link to the app to download it on the App Store!
