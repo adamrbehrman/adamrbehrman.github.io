@@ -1,6 +1,7 @@
 ---
 layout: page
 title: "Research Projects"
+description: "Some of my research projects"
 permalink: /research
 ---
 
