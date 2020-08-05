@@ -69,7 +69,7 @@ Here's some of the things I previously did:
 I enjoy life a lot. Here are some of the things I like to do the most while I'm here on Earth:
 - I am an avid origamist (yes, it's a word)
 - I produce music (shameless plug for [my SoundCloud](https://soundcloud.com/miser3blade))
-- I love my research ([here's my website])
+- I love my research ([here's the website](https://adamrbehrman.github.io/chroma.github.io/privacy-policy))
 
 ### TL;DR:
 
