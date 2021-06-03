@@ -82,6 +82,7 @@ I enjoy life a lot. Here are some of the things I like to do the most while I'm 
 - I am an avid origamist (yes, it's a word). Here's my origami [Instagram](https://www.instagram.com/lohfi_tv/)
 - I stream on Twitch (shameless plug for [my Twitch](https://www.twitch.tv/lohfi_tv))
 - I love my research ([here's the website](https://adamrbehrman.github.io/chroma.github.io/privacy-policy))
+- I played competitive club tennis at Elon (in 2018, we won 2nd place in the backdraw ofthe USTA Tennis on Campus Fall Invitational at Cary, NC)
 
 ### TL;DR:
 
