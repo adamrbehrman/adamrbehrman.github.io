@@ -9,21 +9,20 @@ Here is my digital resume, but I prefer to think of it as my "Interest Page".
 ## The works
 
 ```
-Programming/Scripting
-• Python
-• R
-• Scala
-• Java
-• SQL
-• SAS
-• Swift
-Data Wrangling
-• AWS/HDFS
-• Apache Zeppelin/Spark/Hadoop
-• Firebase
-Visualizations
-• Tableau
-• Kibana
+Scripting
+•	Python
+•	Scala
+•	Java 
+•	R
+•	SQL
+
+Visualization
+•	Kibana
+•	Excel and Numbers
+
+Other
+•	Hadoop
+•	Linux
 ```
 
 Besides being a programmer, I'm also a clear communicator and strong leader. All throughout the time I've spent in the Data Science field, I have been challenged to learn and apply my knowledge at meetings, challenges and conferences. 
@@ -32,15 +31,14 @@ Besides being a programmer, I'm also a clear communicator and strong leader. All
 
 ### Work
 Starting 2/1/2021, I began working at [Tresata](https://tresata.com), a unicorn based in Charlotte, NC.
-In this role, I am responsible for:
-- Cleaning of massive amounts of raw data, running queries, assessing and documenting data quality
-- Writing custom cleaning processes, scripts, and workflows
-- Tuning machine learning algorithms to perform record linkage, 
-- Managing ES clusters, developing front-end visualizations and network graphs
-- Running feedback loops and QA for resolution
-- Integrating new data sources (both internal & external)
+In this role, I have/am:
+- Been ono a team of 4 that ingested, profiled, and tuned record linkage machine learning algorithm within 72-hour turnaround to match 44k previously rejected records.
+-	Improved client resolution efficient by 1500%. (7 minutes – 30 seconds per entity resolved)
+-	Writing Scala and Bash custom cleaning processes, scripts, and workflows for production use.
+-	Managing ES clusters, developing front-end visualizations and network graphs to show and communicate valuable insights.
 
-Tools used: Scala, Spark, Hadoop, and other large data processing tools
+
+Tools used: Linux, Bash, Scala, Spark, Hadoop, and other large data processing tools
 
 ### Off-Campus
 
