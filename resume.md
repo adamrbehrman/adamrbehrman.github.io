@@ -1,5 +1,5 @@
 ---
-title: "A Resume of Sorts"
+title: "Adam's Digital Resume"
 description: "Things that I do"
 permalink: /resume
 ---
