@@ -1,5 +1,3 @@
-# Hi, I'm Adam. 
-
 I'm a data-driven, results kind-of-guy who enjoys challenging work and solving meaningful problems. I currently work at Tresata, a fast-growing startup in Charlotte, NC. I graduated from Elon University Magna Cum Laude in December 2020.
 
 Quick links:
